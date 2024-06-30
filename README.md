@@ -1,1 +1,2 @@
-# reschool-cv
+# rsschool-cv
+https://lenanar.github.io/rsschool-cv/cv
