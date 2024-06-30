@@ -14,3 +14,8 @@ My name is LenaNar, and I am trying to start a career as a front-end developer. 
 * Accounting
 * Budget managing
 
+## Languages:
+* English   - B1
+* Polish    - C1
+* Ukrainian - C2
+* Russian   - C1
