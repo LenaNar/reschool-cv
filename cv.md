@@ -13,4 +13,4 @@ My name is LenaNar, and I am trying to start a career as a front-end developer. 
 * SAP MM
 * Accounting
 * Budget managing
-* HTML
+
